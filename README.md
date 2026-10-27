@@ -12,9 +12,8 @@
   <a href="mailto:contacto@codingmx.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Correo"></a>
   -->
   <a href="https://github.com/Alexxlml?tab=followers"><img src="https://img.shields.io/github/followers/Alexxlml?label=Seguir&style=for-the-badge&logo=github&color=24292f" alt="Seguir en GitHub"></a>
-  <!-- [CONFIRMAR] Botón de apoyo: GitHub Sponsors, Ko-fi o PayPal.
-  <a href="URL"><img src="https://img.shields.io/badge/Apoyar-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar"></a>
-  -->
+  <a href="https://github.com/sponsors/Alexxlml"><img src="https://img.shields.io/badge/Patrocinar-GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Patrocinar en GitHub Sponsors"></a>
+  <a href="https://ko-fi.com/alexxlml"><img src="https://img.shields.io/badge/Apoyar-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar en Ko-fi"></a>
   <!-- Cuando se publique el sitio:
   <a href="https://codingmx.com"><img src="https://img.shields.io/badge/codingmx.com-Sitio-111827?style=for-the-badge&logo=astro&logoColor=white" alt="CodingMX"></a>
   -->
